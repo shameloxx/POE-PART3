@@ -1,0 +1,16 @@
+[
+  {
+    "id": "2222222222",
+    "hash": "22:WHERETIME.",
+    "recipient": "+27838884567",
+    "content": "Where are you? You are late! I have asked you to be on time.",
+    "flag": "Stored"
+  },
+  {
+    "id": "5555555555",
+    "hash": "55:OKYOU.",
+    "recipient": "+27838884567",
+    "content": "Ok, I am leaving without you.",
+    "flag": "Stored"
+  }
+]
